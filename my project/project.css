@@ -1,0 +1,99 @@
+
+
+
+.c-block{
+    height: 400px;
+    width: 300px;
+}
+.px-4 {
+    background-color:white;
+    border: 0px;
+}
+
+
+.row{
+    margin-top: 50px;
+}
+.rounded-lg-3{
+    height: 400px;
+    width: 400px;
+    margin-right: 30px;
+}
+.image1{
+   border-radius: 50%;
+   height: 100px;
+   width: 100px;
+}
+.row1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    padding: 20px 0px 0px 30px;
+    text-align: center;
+}
+.fair{
+    width: 33%;
+}
+.zoo{
+    width: 33%;
+}
+   .lake{
+width: 33%;
+   }
+  .fair{
+    height:60%;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 150px;
+  }
+  .fair-container{
+    height:650px ;
+   
+    margin-bottom: 30px;
+    background: linear-gradient(300deg, seagreen, white, grey);
+	
+	animation: gradient 18s ease infinite;
+	
+    
+  }
+  .renuka-fair{
+    display: flex;
+   position: relative;
+   bottom: 100px;
+    
+  }
+  .page-link{
+    display: flex;
+    justify-content:right;
+   
+   
+  }
+  
+  .pagination{
+    background-color: aquamarine;
+  }
+  
+  
+  .nav-bg{
+    background: linear-gradient(300deg, rgb(205, 55, 55), orange, #d2083e);
+	
+	animation: gradient 18s ease infinite;
+  }
+  .slid-col1{
+   text-align:right;
+    color:rgb(255, 244, 244);
+    font-weight: 100;
+  }
+  .btn{
+    color: black;
+  }
+  .renuka-ji{
+    background: linear-gradient(300deg, rgb(192, 241, 214), white, rgb(249, 240, 240));
+	
+	animation: gradient 18s ease infinite;
+  }
+  
